@@ -44,7 +44,7 @@ Le flux général du RAG suit les étapes suivantes :
 | **PostgreSQL + pgvector**         | Base de données + recherche vectorielle |
 | **Docker** (optionnel)            | Conteneurisation                        |
 
----
+
 
 ## ⚙️ Installation & exécution
 
