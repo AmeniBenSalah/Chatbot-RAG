@@ -4,8 +4,6 @@ Ce projet implémente un système **RAG (Retrieval-Augmented Generation)** perme
 
 L'application utilise **Chainlit** comme interface conversationnelle, un **modèle d’embeddings** pour représenter les textes sous forme vectorielle, et **PostgreSQL + pgvector** pour stocker et interroger efficacement ces vecteurs.
 
----
-
 ## 🧠 Objectif du projet
 
 L’objectif est de construire un **assistant intelligent** capable de :
@@ -71,4 +69,4 @@ CREATE EXTENSION IF NOT EXISTS vector;
 
 ###4️⃣ Lancer l’application
 chainlit run chainlit_app/main.py
-```
+
