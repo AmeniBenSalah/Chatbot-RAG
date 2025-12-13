@@ -33,10 +33,10 @@ Utilisateur → Chainlit → Embedding requête → Recherche vectorielle (Postg
 
 ### 🖼️ Schéma de l’architecture
 
-*(Ajouter l’image de l’architecture dans le dépôt, par exemple : `docs/architecture.png`)*
+
 
 ```md
-![Architecture RAG](docs/architecture.png)
+![Architecture RAG](architecture.png)
 ```
 
 ---
