@@ -36,8 +36,9 @@ Utilisateur → Chainlit → Embedding requête → Recherche vectorielle (Postg
 
 
 ```md
-![Architecture RAG](architecture.png)
-```
+<p align="center">
+  <img src="architecture.png" alt="Architecture RAG" width="700"/>
+</p>```
 
 ---
 
