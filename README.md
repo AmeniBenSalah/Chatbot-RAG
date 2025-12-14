@@ -1,4 +1,4 @@
-# 🤖 Chatbot RAG avec Chainlit, Embeddings et PostgreSQL
+# 🤖 Chatbot RAG 
 
 Ce projet implémente un **système RAG (Retrieval‑Augmented Generation)** permettant d’améliorer la qualité des réponses générées par un **modèle de langage (LLM)** en intégrant une **recherche sémantique** dans une base de données vectorielle.
 
